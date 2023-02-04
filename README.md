@@ -1,2 +1,2 @@
 # fqtu
-图床
+github个人图床
