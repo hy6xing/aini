@@ -25,9 +25,11 @@
 - https://github.com/hl6xing/hl6xing.github.io/
 - https://github.com/hylxing/hylxing.github.io/
 - https://github.com/hylx/hylx.github.io/
- 没错，真聪明。对应项目就是在github域名前面加上github.com/用户名
- 如果加载慢可以尝试 https://cdn.jsdelivr.net/gh/用户名/项目@latest/ 来加速访问
+ *** 
+ 没错，真聪明。对应项目就是在github域名前面加上github.com/用户名  
+ 如果加载慢可以尝试 https://cdn.jsdelivr.net/gh/用户名/项目@latest/ 来加速访问  
  列如：https://cdn.jsdelivr.net/gh/hylx/hylx.github.io@latest/
+ ***
 # 声明
 1. 五个网站都为开源网站  
 2. 博客网站基于hexo搭建·shoka主题。请勿克隆，需要克隆的请出门左拐去hexo·shoka官网获取链接。  
