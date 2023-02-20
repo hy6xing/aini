@@ -17,11 +17,17 @@
 - 官网主页：https://hy6xing.gitee.io
 - 博客主页：https://hy6xing.cn
 ## 开源Github
-- 空间小窝：https://6xing.top    &ensp;&ensp; https://github.com/hl6xing/hl6xing.github.io/
-- 个人主页：https://5a.中国            &ensp; https://github.com/hylxing/hylxing.github.io/
-- 爱心网页：https://hylx.github.io     &ensp; https://github.com/hylx/hylx.github.io/
-
-
+- 空间小窝：https://6xing.top   
+- 个人主页：https://5a.中国           
+- 爱心网页：https://hylx.github.io    
+***
+- 对应项目：
+- https://github.com/hl6xing/hl6xing.github.io/
+- https://github.com/hylxing/hylxing.github.io/
+- https://github.com/hylx/hylx.github.io/
+ 没错，真聪明。对应项目就是在github域名前面加上github.com/用户名
+ 如果加载慢可以尝试 https://cdn.jsdelivr.net/gh/用户名/项目@latest/ 来加速访问
+ 列如：https://cdn.jsdelivr.net/gh/hylx/hylx.github.io@latest/
 # 声明
 1. 五个网站都为开源网站  
 2. 博客网站基于hexo搭建·shoka主题。请勿克隆，需要克隆的请出门左拐去hexo·shoka官网获取链接。  
@@ -30,7 +36,7 @@
 3.2. 不改或者不删直接应用，会导致别人访问你网站的IP全部暴露在我的后台  
 3.3. 不改或者不删直接应用，你将不会看到实时访客IP和统计。  
 4. 所有网站出百度统计外还使用 [不蒜子](http://busuanzi.ibruce.info/)-极简网页计数器，不涉及任何后台与ip，纯记录网站点击访问量。于网页末页底部显示，所以无需改动。 
-5. <font color="#dd0000">最重要的记住了：开源开源，既是免费，任何形式收费都是诈骗。</font>  
+5. <font color="#dd0000">最重要的记住了：开源开源，既是免费，任何形式收费都是诈骗</font>  
 6. <font color="#dd0000">不懂除了百度之外还可以问</font>
 7. <font color="#dd0000">不要犯傻被骗了</font>
 # 最后，祝大家玩的开心
