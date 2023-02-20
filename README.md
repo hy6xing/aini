@@ -17,9 +17,11 @@
 - 官网主页：https://hy6xing.gitee.io
 - 博客主页：https://hy6xing.cn
 ## 开源Github
-- 空间小窝：https://6xing.top
-- 个人主页：https://5a.中国
-- 爱心网页：https://hylx.github.io
+- 空间小窝：https://6xing.top    &ensp;&ensp; https://github.com/hl6xing/hl6xing.github.io/
+- 个人主页：https://5a.中国            &ensp; https://github.com/hylxing/hylxing.github.io/
+- 爱心网页：https://hylx.github.io     &ensp; https://github.com/hylx/hylx.github.io/
+
+
 # 声明
 1. 五个网站都为开源网站  
 2. 博客网站基于hexo搭建·shoka主题。请勿克隆，需要克隆的请出门左拐去hexo·shoka官网获取链接。  
