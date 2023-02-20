@@ -38,9 +38,9 @@
 3.2. 不改或者不删直接应用，会导致别人访问你网站的IP全部暴露在我的后台  
 3.3. 不改或者不删直接应用，你将不会看到实时访客IP和统计。  
 4. 所有网站出百度统计外还使用 [不蒜子](http://busuanzi.ibruce.info/)-极简网页计数器，不涉及任何后台与ip，纯记录网站点击访问量。于网页末页底部显示，所以无需改动。 
-5. [最重要的记住了：开源开源，既是免费，任何形式收费都是诈骗]()
-6. [不懂除了百度之外还可以问]()
-7. [不要犯傻被骗了]()
+### 最重要的记住了：开源开源，既是免费，任何形式收费都是诈骗
+### 不懂除了百度之外还可以问
+### 不要犯傻被骗了
 # 最后，祝大家玩的开心
 ![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg9.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812384.jpg&refer=http%3A%2F%2Fimg9.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1678872874&t=a5b0587da2559da9029c5ae1fff0d352)  
 ![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.doubanio.com%2Fview%2Fgroup_topic%2Fraw%2Fpublic%2Fp281812147.jpg&refer=http%3A%2F%2Fimg1.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1678872851&t=c0040838fa1983502b24b7283f2037fb)
