@@ -14,12 +14,14 @@
 - 语录：合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下。——《道德经·第六十四章》
         
 # 网站
-- 官网主页：https://hy6xing.gitee.io
-- 博客主页：https://hy6xing.cn
-## 开源Github
-- 空间小窝：https://6xing.top   
-- 个人主页：https://5a.中国           
-- 爱心网页：https://hylx.github.io    
+- 官网主页：http://6xing.top
+- 博客主页：http://hy6xing.cn
+## 开源Github演示
+- Github站: https://hy6xing.github.io
+- 空间小窝：https://hl6xing.github.io   
+- 个人主页：https://hylxing.github.io           
+- 爱心网页：https://hylx.github.io
+- gitee站：https://hy6xing.gitee.io
 ***
 - 对应项目：
 - https://github.com/hl6xing/hl6xing.github.io/
@@ -32,7 +34,7 @@
  ***
 # 声明
 1. 五个网站都为开源网站  
-2. 博客网站基于hexo搭建·shoka主题。请勿克隆，需要克隆的请出门左拐去hexo·shoka官网获取链接。  
+2. github博客网站基于hexo搭建·shoka主题。请勿克隆，需要克隆的请出门左拐去hexo·shoka官网获取链接。  
 3. 如需克隆其余4个站点，请在或者源码后不要直接应用。  
 3.1. 请删除或者更改`index.html`里的百度统计。  
 3.2. 不改或者不删直接应用，会导致别人访问你网站的IP全部暴露在我的后台  
