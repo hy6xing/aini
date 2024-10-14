@@ -14,7 +14,7 @@
 - 语录：合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下。——《道德经·第六十四章》
         
 # 网站
-- 官网主页：http://6xing.top
+- 官网主页：http://w.hy6xing.cn
 - 博客主页：http://hy6xing.cn
 ## 开源Github演示
 - Github站: https://hy6xing.github.io
